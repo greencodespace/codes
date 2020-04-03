@@ -2,12 +2,14 @@
 
 # -*- coding : utf-8 -*-
 
-#------------------------------------------------
-# * file_name : scipy_1st_test_code                             
-# * theme :                                    
-# * kw    :                                    
-# * from  :                                    
-# * ref   :                                    
+#-----------------------------------------------
+#  file_name : xtest1.py                                  
+#  theme :  scipy_1st_test_code
+#  start :
+#  last_uodate : 2020, 04
+#  kw    :                                       
+#  from  :                                       
+#  ref   :                                       
 #------------------------------------------------
 
 from numpy import *
